@@ -87,3 +87,11 @@ df
 
 # COMMAND ----------
 
+print("My new databricks note book")
+
+# COMMAND ----------
+
+print("Testing new things on databricks notebook")
+
+# COMMAND ----------
+
